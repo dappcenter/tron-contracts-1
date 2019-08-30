@@ -1,0 +1,12 @@
+
+src/js/metacoin-config.js
+node_modules
+build
+.env
+
+migrations/
+metadata/
+contracts/erc721x/
+tronbox.js
+tronbox-config.js
+package-lock.json
